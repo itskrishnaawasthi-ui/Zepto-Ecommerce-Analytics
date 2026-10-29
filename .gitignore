@@ -1,0 +1,13 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Local credentials (MySQL password etc.)
+.env
+
+# Windows / editor files
+Thumbs.db
+desktop.ini
+.vscode/
