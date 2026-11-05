@@ -98,16 +98,16 @@ To reproduce:
 To open it, use Power BI Desktop. If the data source path breaks, go to Transform data > Data source settings and point it at `data/zepto_cleaned.csv`.
 
 ### Overview
-![Overview page](images/dashboard_overview.png)
+![Overview page](images/dashboard_overview.jpg)
 
 ### Categories
-![Categories page](images/dashboard_categories.png)
+![Categories page](images/dashboard_categories.jpg)
 
 ### Pricing
-![Pricing page](images/dashboard_pricing.png)
+![Pricing page](images/dashboard_pricing.jpg)
 
 ### Stock
-![Stock page](images/dashboard_stock.png)
+![Stock page](images/dashboard_stock.jpg)
 
 ## How to run the notebook
 
